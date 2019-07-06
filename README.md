@@ -2,20 +2,35 @@
 Here are some Informations of the bot!
 
 # What can the Bot?
+
 ⚫    !Clear [Zahl]		✅
+
 ⚫    !Server			✅
+
 ⚫    !Bewerben			✅
+
 ⚫    !Partner			✅
+
 ⚫    !MeMe				✅
+
 ⚫    !Hilfe				✅
+
 ⚫    !Regeln			✅
+
 ⚫    !img				✅
+
 ⚫    !ping				✅
+
 ⚫    !minecraft [Name]  ❎
+
 ⚫    !coins			    ❎
+
 ⚫    !level				❎
+
 ⚫    !ban [name]		❎
+
 ⚫    More ist comming!
+
 
 # What can the make?
 The ⚙️MECHANIC BOT⚙️ offers many features to make your server better!
