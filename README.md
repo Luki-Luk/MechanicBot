@@ -5,31 +5,95 @@ Here are some Informations of the bot!
 
 ⚫    !Clear [Zahl]		✅
 
-⚫    !Server			✅
+⚫    !ping			✅
 
-⚫    !Bewerben			✅
+⚫    !abstimmung [Text]			✅
 
-⚫    !Partner			✅
+⚫    !user-info			✅
 
-⚫    !MeMe				✅
+⚫    !gennumber [Anzahl]				✅
 
-⚫    !Hilfe				✅
+⚫    !joke/!joke-2				✅
 
-⚫    !Regeln			✅
+⚫    !meme			✅
 
-⚫    !img				✅
+⚫    !channel-info				✅
 
-⚫    !ping				✅
+⚫    !lock [Anzahl] [Grund]				✅
 
-⚫    !minecraft [Name]  ❎
+⚫    !8ball [Text]  ❎
 
-⚫    !coins			    ❎
+⚫    !timer [Anzahl]			    ❎
 
 ⚫    !level				❎
 
-⚫    !ban [name]		❎
+⚫    !clear [Anzahl | all]		❎
 
-⚫    More ist comming!
+⚫    !clear !gold		❎
+
+⚫    !say [@User] [Text]		❎
+
+⚫    !feedback [Positiv/Negativ] [feedback]		❎
+
+⚫    !mygold		❎
+
+⚫    !ideen [idee]		❎
+
+⚫    !warns		❎
+
+⚫    !kill [@User]		❎
+
+⚫    !report [report]		❎
+
+⚫    !news [Text]		❎
+
+⚫    !fts		❎
+
+⚫    !QR [Text]		❎
+
+⚫    !ban [@User]		❎
+
+⚫    !slap [@User]		❎
+
+⚫    !RawData		❎
+
+⚫    !kick [@User]		❎
+
+⚫    !brazzers [@User]		❎
+
+⚫    !botinfo		❎
+
+⚫    !mute [@User] [Grund]		❎
+
+⚫    !jail		❎
+
+⚫    !mcaccount [MCJavaName]		❎
+
+⚫    !sync [#channel]		❎
+
+⚫    !ssp [@User]		❎
+
+⚫    !remind-me [Anzahl in Minuten] [Nachricht]		❎
+
+⚫    !unmute [@User]		❎
+
+⚫    !translate		❎
+
+⚫    !setuplog [#channel]		❎
+
+⚫    !translatelist		❎
+
+⚫    !blacklist [add/remove] [ServerID]		❎
+
+⚫    !loop		❎
+
+⚫    !setup		❎
+
+⚫    !warnlog		❎
+
+⚫    !warnlog		❎
+
+⚫    !setwarns [@User] [Anzahl]
 
 
 # What can the make?
